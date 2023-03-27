@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799455040450",
+    "project_id": "facedetection-421a4",
+    "storage_bucket": "facedetection-421a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799455040450:android:9eb7560de043b82ece3c5b",
+        "android_client_info": {
+          "package_name": "com.gyanendra.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799455040450-feb72skf9qa81fcad0khrocsn6egte76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5CaPpDHaUFmiMT3dwG9txLOLGGZHjv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799455040450-feb72skf9qa81fcad0khrocsn6egte76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
